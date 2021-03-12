@@ -17,7 +17,6 @@ Check your expenses & income here.
 
 ### TODO
 
-- [ ] Deploy the Frontend to Netlify/Vercel
 - [ ] Implement LocalStorage to store the state in Frontend??
 - [ ] Create a Backend using Node.js, Express & MongoDB to save the transactions
 
@@ -34,4 +33,4 @@ Install all the packages required to run this project
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-#### You will be up & running with the **Expense Tracker app.** Cheers Mate!!
+#### You will be up & running with the Expense Tracker app. Cheers Mate!!
